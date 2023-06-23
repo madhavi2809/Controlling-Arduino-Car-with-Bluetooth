@@ -1,2 +1,2 @@
-# SIT217-Task-7.1C
+# Controlling Arduino Car with Bluetooth
 Connection of Arduino car with Bluetooth Module
